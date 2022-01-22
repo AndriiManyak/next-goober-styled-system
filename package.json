@@ -8,9 +8,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/styled-system": "^5.1.15",
+    "goober": "^2.1.7",
     "next": "12.0.8",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-system": "^5.1.5"
   },
   "devDependencies": {
     "@types/node": "17.0.10",
